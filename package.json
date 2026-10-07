@@ -18,5 +18,19 @@
     "drizzle-kit": "^1.0.0-rc.4",
     "tsx": "^4.23.13",
     "typescript": "^7.0.2"
-  }
+  },
+  "version": "1.0.0",
+  "description": "```\r npm install\r npm run dev\r ```",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bbimxn/REST-IOT.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bbimxn/REST-IOT/issues"
+  },
+  "homepage": "https://github.com/bbimxn/REST-IOT#readme"
 }
